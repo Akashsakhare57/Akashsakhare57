@@ -1,5 +1,7 @@
+![image](https://user-images.githubusercontent.com/114383319/210227601-e28fea9a-bbe4-4df7-8b74-02900d33cf38.png)
+
 # #👋Hey I,m Akash Sakhare
-🎓I am Pursuing B Tech Third Year specializes in Data science.<br>🧐Looking to Dive into New World Technologies...and solve Problems.<br>😍I am Passionate about Data Science.<br>👀Shoot me an Email or Add me on LinkedIn.<br><br><br>
+🎓I am Pursuing B Tech Third Year specializes in Data science.<br>🧐Looking to Dive into New World Technologies...and solve Problems.<br>😍I am Passionate about Data Science and New Innvations like AI & ML.<br>👀Shoot me an Email or Add me on LinkedIn.<br><br><br>
 
 # Data Science, AI & ML
 ![image](https://user-images.githubusercontent.com/114383319/210224991-b2090195-2896-4b4d-a5a2-060e310a2046.png)
