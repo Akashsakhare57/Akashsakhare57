@@ -1,7 +1,9 @@
-# 💫 About Me:
+# #👋Hey I,m Akash Sakhare
 🎓I am Pursuing B Tech Third Year specializes in Data science.<br>🧐Looking to Dive into New World Technologies...and solve Problems.<br>😍I am Passionate about Data Science.<br>👀Shoot me an Email or Add me on LinkedIn.<br><br><br>
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/114383319/210224187-13b12771-41a7-4844-a61a-3e1ea626dd50.png)
-">
+
+# Data Science, AI & ML
+![image](https://user-images.githubusercontent.com/114383319/210224991-b2090195-2896-4b4d-a5a2-060e310a2046.png)
+>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akash.sakhare.57) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akash_sakhare-57) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-sakhare-57as) 
@@ -12,9 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Akashsakhare57&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akashsakhare57&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashsakhare57&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akashsakhare57&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
